@@ -1,0 +1,19 @@
+html {
+    background-color: gainsboro;
+}
+body {
+    background-color: white;
+    min-height: 100vh;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+header h2 {
+    font-size: 250%;
+    text-align: center;
+}
+.bannerimage{
+    max-width: 500px;
+}
